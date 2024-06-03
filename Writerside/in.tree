@@ -4,7 +4,10 @@
 
 <instance-profile id="in"
                  name="Instance Name"
-                 start-page="starter.md">
+                  start-page="index.md">
 
-    <toc-element topic="starter.md"/>
+    <toc-element topic="index.md"/>
+    <toc-element topic="Interface.md">
+        <toc-element topic="1-2-Java-Interface.md"/>
+    </toc-element>
 </instance-profile>
