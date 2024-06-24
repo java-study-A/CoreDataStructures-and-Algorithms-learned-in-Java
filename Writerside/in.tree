@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
+                 name="CoreDataStructures-and-Algorithms-learned-in-Java"
                   start-page="index.md">
 
     <toc-element topic="index.md">
