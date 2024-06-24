@@ -9,11 +9,11 @@
     <toc-element topic="index.md">
         <toc-element topic="WIKI.md"/>
     </toc-element>
-    <toc-element topic="Interface.md">
-        <toc-element topic="1-2-Java-Interface.md"/>
-        <toc-element topic="1-3-List-interface.md"/>
+    <toc-element topic="CH-1-Interface.md">
+        <toc-element topic="1-1-Java-Interface.md"/>
+        <toc-element topic="1-2-List-interface.md"/>
     </toc-element>
-    <toc-element topic="AlgorithmAnalysis.md">
+    <toc-element topic="CH2-Algorithm-Analysis.md">
         <toc-element topic="2-1-Selection-Sort.md"/>
         <toc-element topic="2-2-Big-O-Notation.md"/>
     </toc-element>
